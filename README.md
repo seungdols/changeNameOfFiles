@@ -1,6 +1,6 @@
 # changeNameOfFiles
 
-change name of files for java but will use Java8 grammer and GUI(maybe JavaFX).
+~~change name of files for java but will use Java8 grammer and GUI(maybe JavaFX).~~
 
 #### Why make this program?
 
@@ -18,13 +18,15 @@ but I try to make it very well.
 
 2. 점진적인 기능 향상을 목적으로 합니다. 우선 Java8 문법을 사용할 수 있는 한 사용할 예정입니다. 
 
-3. Java Swing Components는 지양하고, JavaFX 라이브러리를 통한 심미성을 추구 할 예정입니다. 
+3. ~~Java Swing Components는 지양하고, JavaFX 라이브러리를 통한 심미성을 추구 할 예정입니다.~~
 
 4. 이 프로그램이 언제 완성 될지, 언제 쓸만하게 성장할지는 아무도 모릅니다. 그냥 취미...
 
+5. 생각이 바뀌었습니다. 이 코드는 폐기하고 다시 만들 예정입니다.
+
 #### 만들 예정인 기능 
 
-1. GUI 기반
+1. ~~GUI 기반~~(GUI는 별 필요가 없는거 같아요..리눅스에서 쓸거니까요.)
 2. 우분투/윈도우 상에서 동작
 3. 단일 파일 확장자 변경
 4. 단일 파일 이름 변경
@@ -38,4 +40,4 @@ but I try to make it very well.
 
 #### 만들어진 기능
 
-1. Shell 상에서 파일 이름 변경
+1. Shell 상에서 파일 이름 변경 (코드가 처참한 수준..OOP는 어디로 갔는지 모르겠다.)
